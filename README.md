@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Geraldine</h1>
 <h3 align="center">An insatiably curious creative</h3>
 
-- 🧬 I mainly work in cancer research with [Shepherd Research Lab](https://shepherdresearchlab.org)
+- 🧬 I'm mainly working in medical research with [Shepherd Research Lab](https://shepherdresearchlab.org)
 
 - 🎈 I’m currently planning the [Advanced Stage Breast Cancer Workshop](https://breastdenstiyworkshop.org/abc)
 
@@ -9,9 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://geraldiner.com/index.html](https://geraldiner.com/index.html)
 
-- 📫 How to reach me **hello [at] geraldiner [dot] com**
+- 📫 Let's chat: **hello [at] geraldiner [dot] com**
 
-- ⚡ Fun fact **"Not just *happy* - it's 'life-of-the-party' happy." -Former coworker on the English translation of my last name.**
+- ⚡ Fun fact: 
+    > **"Not just *happy* - it's 'life-of-the-party' happy."**
+    - Former coworker on the English translation of my last name.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
