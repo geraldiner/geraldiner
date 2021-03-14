@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: 
     > **"Not just *happy* - it's 'life-of-the-party' happy."**
-    - Former coworker on the English translation of my last name.
+    -- Former coworker on the English translation of my last name.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
