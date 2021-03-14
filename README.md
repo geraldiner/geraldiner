@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geraldine</h1>
-<h3 align="center">A insatiably curious creative</h3>
+<h3 align="center">An insatiably curious creative</h3>
 
 - 🧬 I mainly work in cancer research with [Shepherd Research Lab](https://shepherdresearchlab.org)
 
