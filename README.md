@@ -3,11 +3,11 @@
 
 - 🧬 I'm mainly working in medical research with [Shepherd Research Lab](https://shepherdresearchlab.org)
 
-- 🎈 I’m currently planning the [Advanced Stage Breast Cancer Workshop](https://breastdenstiyworkshop.org/abc)
+- 🎈 I’m currently planning the [10th International Breast Density & Cancer Risk Assessment Workshop](https://breastdenstiyworkshop.org/abc)
 
 - 🌱 I'm currently learning [Full-Stack Web Development with #100Devs](https://github.com/geraldiner/100devs)
 
-- 👨‍💻 All of my projects are available at [https://geraldiner.com/index.html](https://geraldiner.com/index.html)
+- 👨‍💻 All of my projects are available at [https://geraldiner.com/](https://geraldiner.com/)
 
 - 📫 Let's chat: **hello [at] geraldiner [dot] com**
 
