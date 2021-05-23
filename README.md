@@ -1,21 +1,36 @@
-<h1 align="center">Hi 👋, I'm Geraldine</h1>
-<h3 align="center">A insatiably curious creative</h3>
+<h1 align="center">Hullo, I'm Geraldine 👋🏾</h1>
+<h3 align="center">An insatiably curious creative in the United States</h3>
 
-<p align="left"> <a href="https://twitter.com/geraldinedesu" target="blank"><img src="https://img.shields.io/twitter/follow/geraldinedesu?logo=twitter&style=for-the-badge" alt="geraldinedesu" /></a> </p>
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/geraldiner" title="linkedin"><img width="22" src="https://github.com/geraldiner/geraldiner/blob/main/images/linkedin.svg"> LinkedIn</a>
+  </code>
+    <code>
+    <a href="https://www.twitter.com/geraldinedesu" title="twitter"><img width="22" src="https://github.com/geraldiner/geraldiner/blob/main/images/twitter.svg"> Twitter</a>
+  </code>
+  <code>
+    <a href="https://www.instagram.com/geraldinedesu" title="instagram"><img width="22" src="https://github.com/geraldiner/geraldiner/blob/main/images/instagram.svg"> Instagram</a>
+  </code>
+</h5>
 
-- 🧬 I mainly work in cancer research with [Shepherd Research Lab](https://shepherdresearchlab.org)
+🧬 I mainly work in cancer research with [Shepherd Research Lab](https://shepherdresearchlab.org)
 
-- 🎈 I’m currently planning the [Advanced Stage Breast Cancer Workshop](https://breastdenstiyworkshop.org/abc)
+🌱 I'm currently learning [Full-Stack Web Development with #100Devs](https://github.com/geraldiner/100devs)
 
-- 🌱 I'm currently learning [Full-Stack Web Development with #100Devs](https://github.com/geraldiner/)
+✨ Trying to find the magic in movies: [Where's the Magic?](https://github.com/geraldiner/magical-movies)
 
-- 👨‍💻 All of my projects are available at [https://geraldiner.com/](https://geraldiner.com/)
+🌲 When in doubt, play Animal Crossing.
 
-- 💬 Ask me about **my magical movies project**
+📫 Let's talk about experience design and happiness: **hello [at] geraldiner [dot] com**
 
-- 📫 How to reach me **hello [at] geraldiner [dot] com**
+⚡ Fun fact:
 
-- ⚡ Fun fact **"Not just *happy* - it's 'life-of-the-party' happy." -Former coworker on the English translation of my last name.**
+<blockquote>"Not just *happy* - it's 'life-of-the-party' happy." 
+  
+  <cite>— Former coworker on the English translation of my last name</cite>
+</blockquote>
+
+***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
