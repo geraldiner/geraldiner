@@ -35,6 +35,7 @@
 <cite>— Former coworker on the English translation of my last name</cite>
 
 </blockquote>
+  💖 Life's too short to be scared. Live your best life.
 </div>
 
 <h2 align="center">Toolbox</h2>
