@@ -83,3 +83,4 @@
 
 ## GitHub Stats
 [![GeraldineR's GitHub stats](https://github-readme-stats.vercel.app/api?username=geraldiner)](https://github.com/geraldiner/github-readme-stats)
+[![GeraldineR's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=geraldiner)](https://git.io/streak-stats)
