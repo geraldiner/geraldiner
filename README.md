@@ -18,11 +18,11 @@
 <br><br>
 <div>
 
-🧬 I mainly work in cancer research with at [Shepherd Research Lab](https://shepherdresearchlab.org)
+🧬 I mainly work in cancer research at [Shepherd Research Lab](https://shepherdresearchlab.org)
 
 🌱 I'm currently learning [Full-Stack Web Development with #100Devs](https://github.com/geraldiner/100devs)
 
-✨ Trying to find the magic in movies: [Where's the Magic?](https://github.com/geraldiner/magical-movies)
+✨ Trying to find magic in movies: [Where's the Magic?](https://github.com/geraldiner/magical-movies)
 
 🌲 When in doubt, play Animal Crossing
 
@@ -80,3 +80,6 @@
 
 - [Animal Crossing BGM IRL](https://github.com/geraldiner/acnh-bgm-irl)
 - [Pascal's Words of Wisdom](https://github.com/geraldiner/acnh-quotes)
+
+## GitHub Stats
+[![GeraldineR's GitHub stats](https://github-readme-stats.vercel.app/api?username=geraldiner)](https://github.com/geraldiner/github-readme-stats)
