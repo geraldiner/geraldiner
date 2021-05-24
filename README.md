@@ -1,17 +1,20 @@
 <h1 align="center">Hullo, I'm Geraldine 👋🏾</h1>
-<h3 align="center">An insatiably curious creative in the United States</h3>
+<h3 align="center">An insatiably curious creative</h3>
 
-<h5 align="center">
+<section align="center">
   <code>
-    <a href="https://www.linkedin.com/in/geraldiner" title="linkedin"><img width="22" src="https://github.com/geraldiner/geraldiner/blob/main/images/linkedin.svg"> LinkedIn</a>
-  </code>
-    <code>
-    <a href="https://www.twitter.com/geraldinedesu" title="twitter"><img width="22" src="https://github.com/geraldiner/geraldiner/blob/main/images/twitter.svg"> Twitter</a>
+    <a href="https://www.linkedin.com/in/geraldiner" title="linkedin"><img width="22"
+        src="https://github.com/geraldiner/geraldiner/blob/main/images/icons/color/linkedin.svg"> LinkedIn</a>
   </code>
   <code>
-    <a href="https://www.instagram.com/geraldinedesu" title="instagram"><img width="22" src="https://github.com/geraldiner/geraldiner/blob/main/images/instagram.svg"> Instagram</a>
+    <a href="https://www.twitter.com/geraldinedesu" title="twitter"><img width="22"
+        src="https://github.com/geraldiner/geraldiner/blob/main/images/icons/color/twitter.svg"> Twitter</a>
   </code>
-</h5>
+  <code>
+    <a href="https://www.instagram.com/geraldinedesu" title="instagram"><img width="22"
+        src="https://github.com/geraldiner/geraldiner/blob/main/images/icons/color/instagram.svg"> Instagram</a>
+  </code>
+</section>
 
 🧬 I mainly work in cancer research with [Shepherd Research Lab](https://shepherdresearchlab.org)
 
@@ -19,25 +22,62 @@
 
 ✨ Trying to find the magic in movies: [Where's the Magic?](https://github.com/geraldiner/magical-movies)
 
-🌲 When in doubt, play Animal Crossing.
+🌲 When in doubt, play Animal Crossing
 
 📫 Let's talk about experience design and happiness: **hello [at] geraldiner [dot] com**
 
 ⚡ Fun fact:
 
-<blockquote>"Not just *happy* - it's 'life-of-the-party' happy." 
-  
-  <cite>— Former coworker on the English translation of my last name</cite>
+<blockquote>"Not just *happy* - it's 'life-of-the-party' happy."
+
+<cite>— Former coworker on the English translation of my last name</cite>
+
 </blockquote>
 
-***
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/geraldiner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geraldiner" height="30" width="40" /></a>
-<a href="https://twitter.com/geraldinedesu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geraldinedesu" height="30" width="40" /></a>
-<a href="https://instagram.com/geraldinedesu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geraldinedesu" height="30" width="40" /></a>
-</p>
+<h3 align="center">Toolbox</h3>
+<h4>Design Tools</h4>
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h4>Languages</h4>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<h4>Frameworks</h4>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+
+<h4>Software Tools</h4>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+---
+
+<h3 align="center">Interests</h3>
+💻 Digital Experiences (UX Design)
+
+- Ways to make the Twitch viewer experience more fun/interactive
+- Customizable content creation tools
+
+✨ Wonder, magic, happiness (Emotional Design)
+
+- What is magic? What makes a moment magical?
+- How can you spark curiosity/wonder in others?
+- Is happiness really a choice?
+
+🌲 Animal Crossing (Video Games)
+
+- [Animal Crossing BGM IRL](https://github.com/geraldiner/acnh-bgm-irl)
+- [Pascal's Words of Wisdom](https://github.com/geraldiner/acnh-quotes)
