@@ -73,7 +73,7 @@
 - Ways to make the Twitch viewer experience more fun/interactive
 - Customizable content creation tools
 
-✨ Wonder, magic, happiness (Emotional Design)
+✨ Wonder, magic, happiness (People)
 
 - What is magic? What makes a moment magical?
 - How can you spark curiosity/wonder in others?
