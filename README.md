@@ -1,7 +1,7 @@
 <h1 align="center">Hullo, I'm Geraldine 👋🏾</h1>
 <h3 align="center">An insatiably curious creative</h3>
 
-<section align="center">
+<div align="center">
   <code>
     <a href="https://www.linkedin.com/in/geraldiner" title="linkedin"><img width="22"
         src="https://github.com/geraldiner/geraldiner/blob/main/images/icons/color/linkedin.svg"> LinkedIn</a>
@@ -14,7 +14,7 @@
     <a href="https://www.instagram.com/geraldinedesu" title="instagram"><img width="22"
         src="https://github.com/geraldiner/geraldiner/blob/main/images/icons/color/instagram.svg"> Instagram</a>
   </code>
-</section>
+</div>
 
 <section>
 🧬 I mainly work in cancer research with [Shepherd Research Lab](https://shepherdresearchlab.org)
