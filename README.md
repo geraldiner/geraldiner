@@ -17,7 +17,8 @@
 </div>
 
 <div>
-🧬 I mainly work in cancer research with [Shepherd Research Lab](https://shepherdresearchlab.org)
+
+🧬 I mainly work in cancer research with at [Shepherd Research Lab](https://shepherdresearchlab.org)
 
 🌱 I'm currently learning [Full-Stack Web Development with #100Devs](https://github.com/geraldiner/100devs)
 
