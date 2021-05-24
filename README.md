@@ -16,6 +16,7 @@
   </code>
 </section>
 
+<section>
 🧬 I mainly work in cancer research with [Shepherd Research Lab](https://shepherdresearchlab.org)
 
 🌱 I'm currently learning [Full-Stack Web Development with #100Devs](https://github.com/geraldiner/100devs)
@@ -33,7 +34,7 @@
 <cite>— Former coworker on the English translation of my last name</cite>
 
 </blockquote>
-
+</section>
 ---
 
 <h3 align="center">Toolbox</h3>
