@@ -37,8 +37,6 @@
 </blockquote>
 </div>
 
-<hr>
-
 <h2 align="center">Toolbox</h2>
 <h3>Design Tools</h3>
 <span><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /></span>
@@ -65,8 +63,6 @@
 <span><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></span>
-
-<hr>
 
 <h2 align="center">Interests</h2>
 💻 Digital Experiences (UX Design)
