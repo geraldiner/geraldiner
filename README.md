@@ -68,7 +68,7 @@
 <span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></span>
 
 <h2 align="center">About Me</h2>
-![Rise of the Guardians scene of Santa explaining his center: Wonder](https://49.media.tumblr.com/9f02ae54f85ecf3335fc4814e4c3bcc2/tumblr_muxwxlM4Y91qg7qx4o6_250.gif)
+<img alt="Rise of the Guardians scene of Santa explaining his center: Wonder" src="https://49.media.tumblr.com/9f02ae54f85ecf3335fc4814e4c3bcc2/tumblr_muxwxlM4Y91qg7qx4o6_250.gif" />
 
 I love answering questions almost as much as I love asking them. I thrive in places where research, innovation, and creativity are all common practices.
 
