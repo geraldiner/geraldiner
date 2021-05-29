@@ -65,7 +65,17 @@
 <span><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></span>
 
-<h2 align="center">Interests</h2>
+<h2 align="center">About Me</h2>
+An insatiably curious creative
+I love answering questions almost as much as I love asking them. I thrive in places where research, innovation, and creativity are all common practices.
+
+Despite being an introvert, I love people and hearing their stories. In a way, I get to experience life vicariously through them and empathize with what they’re going through. Because of this, I want to see them happier and live more fulfilling lives.
+
+My passion for education has brought me to various experiences revolving around outreach, mentoring, and leadership. Coming from an underprivileged background, I take any opportunity to bring as many people as I can up with me. I believe there is room for everyone at the top.
+
+My knowledge and experience in design and development are just the tools I use to do what I do best: bringing joy to people’s lives.
+
+<h2 align="center">Interests & For Fun Programming</h2>
 💻 Digital Experiences (UX Design)
 
 - Ways to make the Twitch viewer experience more fun/interactive
