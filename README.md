@@ -32,7 +32,7 @@
 
 <blockquote>"Not just *happy* - it's 'life-of-the-party' happy."
 
-<cite>— Former coworker on the English translation of my last name</cite>
+<cite>— Former coworker on the [English translation of my last name](https://toidp.com/search/?s=ragsak&l=ilo)</cite>
 
 </blockquote>
   💖 Life's too short to be scared. Live your best life.
