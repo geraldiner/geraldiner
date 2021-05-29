@@ -86,7 +86,7 @@ My knowledge and experience in design and development are just the tools I use t
 
 ✨ Wonder, magic, happiness (People)
 
-- What is magic? What makes a moment magical?
+- What makes a moment magical?
 - How can you spark curiosity/wonder in others?
 - Is happiness really a choice?
 
