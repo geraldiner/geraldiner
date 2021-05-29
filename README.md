@@ -6,10 +6,12 @@
     <a href="https://www.linkedin.com/in/geraldiner" title="linkedin"><img width="22"
         src="https://github.com/geraldiner/geraldiner/blob/main/images/icons/color/linkedin.svg"> LinkedIn</a>
   </span>
+  
   <span>
     <a href="https://www.twitter.com/geraldinedesu" title="twitter"><img width="22"
         src="https://github.com/geraldiner/geraldiner/blob/main/images/icons/color/twitter.svg"> Twitter</a>
   </span>
+  
   <span>
     <a href="https://www.instagram.com/geraldinedesu" title="instagram"><img width="22"
         src="https://github.com/geraldiner/geraldiner/blob/main/images/icons/color/instagram.svg"> Instagram</a>
