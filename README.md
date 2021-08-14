@@ -22,13 +22,13 @@
 
 🧬 I mainly work in cancer research at [Shepherd Research Lab](https://shepherdresearchlab.org)
 
-🌱 I'm currently learning [Full-Stack Web Development with #100Devs](https://github.com/geraldiner/100devs)
+🌱 I'm currently learning [Full-Stack Web Development at #100Devs](https://leonnoel.com/100devs)
 
 ✨ Trying to find magic in movies: [Where's the Magic?](https://github.com/geraldiner/magical-movies)
 
 🌲 When in doubt, play Animal Crossing
 
-📫 Let's talk about experience design and happiness: **hello [at] geraldiner [dot] com**
+📫 Let's talk about experience design, life's biggest questions, and/or Animal Crossing: **hello [at] geraldiner [dot] com**
 
 ⚡ Fun fact:
 
@@ -37,7 +37,7 @@
 <cite>— Former coworker on the [English translation of my last name](https://toidp.com/search/?s=ragsak&l=ilo)</cite>
 
 </blockquote>
-  💖 Life's too short to be scared. Live your best life.
+  💖 If you're reading this, I hope you're living your best life.
 </div>
 
 <h2 align="center">Toolbox</h2>
@@ -78,22 +78,22 @@ My passion for education has brought me to various experiences revolving around 
 
 My knowledge and experience in design and development are just the tools I use to do what I do best: bringing joy to people’s lives.
 
-<h2 align="center">Interests & For Fun Programming</h2>
-💻 Digital Experiences (UX Design)
+<h2 align="center">Interests</h2>
+💻 Digital Experiences
 
-- Ways to make the Twitch viewer experience more fun/interactive
-- Customizable content creation tools
+- UX Design in digital spaces, especially in places that bring people together
+- Building a community vs audience
+- Content creation process
+- Twitch
 
-✨ Wonder, magic, happiness (People)
+✨ People & Wonder/Magic/Happiness
 
 - What makes a moment magical?
 - How can you spark curiosity/wonder in others?
-- Is happiness really a choice?
 
-🌲 Animal Crossing (Video Games)
+🌲 Animal Crossing
 
-- [Animal Crossing BGM IRL](https://github.com/geraldiner/acnh-bgm-irl)
-- [Pascal's Words of Wisdom](https://github.com/geraldiner/acnh-quotes)
+- ...and other video games as a form of experience design
 
 ## GitHub Stats
 [![GeraldineR's GitHub stats](https://github-readme-stats.vercel.app/api?username=geraldiner)](https://github.com/geraldiner/github-readme-stats)
