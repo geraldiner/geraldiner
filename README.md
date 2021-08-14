@@ -79,6 +79,7 @@ My passion for education has brought me to various experiences revolving around 
 My knowledge and experience in design and development are just the tools I use to do what I do best: bringing joy to people’s lives.
 
 <h2 align="center">Interests</h2>
+
 💻 Digital Experiences
 
 - UX Design in digital spaces, especially in places that bring people together
