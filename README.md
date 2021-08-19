@@ -22,9 +22,9 @@
 
 🧬 I mainly work in cancer research at [Shepherd Research Lab](https://shepherdresearchlab.org)
 
-🌱 I'm currently learning [Full-Stack Web Development at #100Devs](https://leonnoel.com/100devs)
+🌱 I'm working & learning as a Full-Stack Web Developer at [#100Devs](https://www.linkedin.com/company/100devs/mycompany/)
 
-✨ Trying to find magic in movies: [Where's the Magic?](https://github.com/geraldiner/magical-movies)
+✨ Really into React right now 
 
 🌲 When in doubt, play Animal Crossing
 
