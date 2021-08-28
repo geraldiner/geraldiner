@@ -11,11 +11,6 @@
     <a href="https://www.twitter.com/geraldinedesu" title="twitter"><img width="22"
         src="https://github.com/geraldiner/geraldiner/blob/main/images/icons/color/twitter.svg"> Twitter</a>
   </span>
-  
-  <span>
-    <a href="https://www.instagram.com/geraldinedesu" title="instagram"><img width="22"
-        src="https://github.com/geraldiner/geraldiner/blob/main/images/icons/color/instagram.svg"> Instagram</a>
-  </span>
 </div>
 <br>
 <br><br>
@@ -56,8 +51,6 @@
 <h3>Frameworks</h3>
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white"/></span>
-<span><img src="/images/icons/color/tailwind.svg"/></span>
-<br>
 <span><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></span>
