@@ -78,6 +78,11 @@ My knowledge and experience in design and development are just the tools I use t
 
 <h2 align="center">Interests</h2>
 
+🏫 Education & Learning
+
+- Access to education to level the playing field
+- Teach For America Kool-Aid ("One day all children")
+
 💻 Digital Experiences
 
 - UX Design in digital spaces, especially in places that bring people together
