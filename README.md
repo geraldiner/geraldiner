@@ -16,15 +16,15 @@
 <br><br>
 <div>
 
-🧬 I mainly work in cancer research at [Shepherd Research Lab](https://shepherdresearchlab.org)
-
 🌱 I'm working & learning as a Full-Stack Web Developer at [#100Devs](https://www.linkedin.com/company/100devs/mycompany/)
 
-✨ Really into React right now
+🍎 Working part-time as a Web Development & Computer Science TA at James Campbell High School
+
+✨ Really into React right now -- and more recently, computer science education
 
 🌲 When in doubt, play Animal Crossing
 
-📫 Let's talk about experience design, life's biggest questions, and/or Animal Crossing: **hello [at] geraldiner [dot] com**
+📫 Let's talk about experience design, (computer science) education, and/or Animal Crossing: **hello [at] geraldiner [dot] com**
 
 ⚡ Fun fact:
 
