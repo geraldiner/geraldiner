@@ -21,6 +21,8 @@
 🍎 Working part-time as a Web Development & Computer Science TA at James Campbell High School
 
 ✨ Really into React right now -- and more recently, computer science education
+  
+📁 Check out my portfolio: https://geraldiner.com 
 
 🌲 When in doubt, play Animal Crossing
 
