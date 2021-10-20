@@ -70,13 +70,13 @@
 <h2 align="center">About Me</h2>
 <div align="center"><img alt="Rise of the Guardians scene of Santa explaining his center: Wonder" src="https://49.media.tumblr.com/9f02ae54f85ecf3335fc4814e4c3bcc2/tumblr_muxwxlM4Y91qg7qx4o6_250.gif" /></div>
 
-I love answering questions almost as much as I love asking them. I thrive in places where research, innovation, and creativity are all common practices.
+I love answering questions almost as much as I love asking them. I thrive in places where research, innovation, and creativity are all common practices. 💡⚡
 
-Despite being an introvert, I love people and hearing their stories. In a way, I get to experience life vicariously through them and empathize with what they’re going through. Because of this, I want to see them happier and live more fulfilling lives.
+Despite being an introvert, I love people and hearing their stories. In a way, I get to experience life vicariously through them and empathize with what they’re going through. Because of this, I want to see them happier and live more fulfilling lives. 😊🍰
 
-My passion for education has brought me to various experiences revolving around outreach, mentoring, and leadership. Coming from an underprivileged background, I take any opportunity to bring as many people as I can up with me. I believe there is room for everyone at the top.
+My passion for education has brought me to various experiences revolving around outreach, mentoring, and leadership. Coming from an underprivileged background, I take any opportunity to bring as many people as I can up with me. I believe there is room for everyone at the top. 🚵🏾‍♂️🌠
 
-My knowledge and experience in design and development are just the tools I use to do what I do best: bringing joy to people’s lives.
+My knowledge and experience in design and development are just the tools I use to do what I do best: bringing joy to people’s lives. ✨💖
 
 <h2 align="center">Interests</h2>
 
