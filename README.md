@@ -104,14 +104,4 @@ My knowledge and experience in design and development are just the tools I use t
 ## GitHub Stats
 
 [![GeraldineR's GitHub stats](https://github-readme-stats.vercel.app/api?username=geraldiner)](https://github.com/geraldiner/github-readme-stats)
-[![GeraldineR's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=geraldiner)](https://git.io/streak-stats)## Other Projects
-
-Check out other stuff I've worked on:
-
-**Rehabitter:** https://github.com/geraldiner/rehabitter
-
-**K.K. Radio:** https://github.com/geraldiner/kk-radio
-
-**Interactive Piano:** https://github.com/geraldiner/piano
-
-**Pom Poko Pomodoro:** https://github.com/geraldiner/pom-poko-pomodoro
+[![GeraldineR's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=geraldiner)](https://git.io/streak-stats)
