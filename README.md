@@ -18,7 +18,7 @@
     <div> 
     <p>⚡ Fun fact:</p>
     <blockquote>"Not just *happy* - it's 'life-of-the-party' happy."
-    <cite>— Former coworker on the [English translation of my last name](https://toidp.com/search/?s=ragsak&l=ilo)</cite>
+    <cite>— Former coworker on the <a href="https://toidp.com/search/?s=ragsak&l=ilo" target="_blank">English translation of my last name</a></cite>
     </blockquote>
     </div>
     <p>💖 If you're reading this, I hope you're living your best life.</p>
