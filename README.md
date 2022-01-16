@@ -2,40 +2,26 @@
 <h3 align="center">An insatiably curious creative</h3>
 
 <div align="center">
-  <span>
-    <a href="https://www.linkedin.com/in/geraldiner" title="linkedin"><img width="22"
-        src="https://github.com/geraldiner/geraldiner/blob/main/images/icons/color/linkedin.svg"> LinkedIn</a>
-  </span>
-  
-  <span>
-    <a href="https://www.twitter.com/geraldinedesu" title="twitter"><img width="22"
-        src="https://github.com/geraldiner/geraldiner/blob/main/images/icons/color/twitter.svg"> Twitter</a>
-  </span>
+  <a href="https://geraldiner.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-3066be?style=for-the-badge&logoColor=white alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/geraldiner" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/geraldinedesu" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://hashnode.com/@geraldiner" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
 </div>
-<br>
-<br><br>
+<br />
 <div>
-
-🌱 I'm working & learning as a Full-Stack Web Developer at [#100Devs](https://www.linkedin.com/company/100devs/mycompany/)
-
-🍎 Working part-time as a Web Development & Computer Science TA at James Campbell High School
-
-✨ Really into React right now -- and more recently, computer science education
-  
-📁 Check out my portfolio: https://geraldiner.com 
-
-🌲 When in doubt, play Animal Crossing
-
-📫 Let's talk about experience design, (computer science) education, and/or Animal Crossing: **hello [at] geraldiner [dot] com**
-
-⚡ Fun fact:
-
-<blockquote>"Not just *happy* - it's 'life-of-the-party' happy."
-
-<cite>— Former coworker on the [English translation of my last name](https://toidp.com/search/?s=ragsak&l=ilo)</cite>
-
-</blockquote>
-  💖 If you're reading this, I hope you're living your best life.
+    <p>🌱 I'm working & learning as a Full-Stack Web Developer at <a href="https://www.linkedin.com/company/100devs/mycompany/" target="_blank">100Devs</a></p>
+    <p>🍎 Volunteering as a Web Development & Computer Science TA at James Campbell High School</p>
+    <p>✨ Learning, growing, and building in public on my <a href="https://hashnode.com/@geraldiner" target="_blank">Hashnode blog</a></p>
+    <p>📁 Always trying to build something. Check out the latest: https://geraldiner.com</p>
+    <p>🌲 When in doubt, play Animal Crossing</p>
+    <p>📫 Let's talk about experience design, (computer science) education, and/or Animal Crossing: **hello [at] geraldiner [dot] com**</p>    
+    <div> 
+    <p>⚡ Fun fact:</p>
+    <blockquote>"Not just *happy* - it's 'life-of-the-party' happy."
+    <cite>— Former coworker on the [English translation of my last name](https://toidp.com/search/?s=ragsak&l=ilo)</cite>
+    </blockquote>
+    </div>
+    <p>💖 If you're reading this, I hope you're living your best life.</p>
 </div>
 
 <h2 align="center">Toolbox</h2>
