@@ -17,7 +17,7 @@
     <p>📫 Let's talk about experience design, (computer science) education, and/or Animal Crossing: **hello [at] geraldiner [dot] com**</p>    
     <div> 
     <p>⚡ Fun fact:</p>
-    <blockquote>"Not just *happy* - it's 'life-of-the-party' happy."
+    <blockquote>"Not just <em>'happy'</em> - it's <strong>life-of-the-party</strong> 'happy'."
     <cite>— Former coworker on the <a href="https://toidp.com/search/?s=ragsak&l=ilo" target="_blank">English translation of my last name</a></cite>
     </blockquote>
     </div>
