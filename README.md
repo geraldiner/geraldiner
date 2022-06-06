@@ -9,11 +9,9 @@
 </div>
 <br />
 <div>
-    <p>🌱 I'm working & learning as a Full-Stack Web Developer at <a href="https://www.linkedin.com/company/100devs/mycompany/" target="_blank">100Devs</a></p>
-    <p>🍎 Volunteering as a Web Development & Computer Science TA at James Campbell High School</p>
-    <p>✨ Learning, growing, and building in public on my <a href="https://hashnode.com/@geraldiner" target="_blank">Hashnode blog</a></p>
-    <p>📁 Always trying to build something. Check out the latest: https://geraldiner.com</p>
-    <p>🌲 When in doubt, play Animal Crossing</p>
+    <p>👩🏽‍💻 Currently a Fullstack Engineer at <a href="https://nomnomnow.com">NomNomNow</a></p>
+    <p>📁 Always trying to build something. Check out the latest below ↓</p>
+    <p>🌲 When in doubt, play Animal Crossing or Legend of Zelda: Breath of the Wild</p>
     <p>📫 Let's talk about experience design, (computer science) education, and/or Animal Crossing: **hello [at] geraldiner [dot] com**</p>    
     <div> 
     <p>⚡ Fun fact:</p>
