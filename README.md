@@ -11,7 +11,7 @@
 <div>
     <p>👩🏽‍💻 Currently a Fullstack Engineer at <a href="https://nomnomnow.com">NomNomNow</a></p>
     <p>📁 Always trying to build something. Check out the latest below ↓</p>
-    <p>🌲 When in doubt, play Animal Crossing or Legend of Zelda: Breath of the Wild</p>
+    <p>🌲 When in doubt, dance it out</p>
     <p>📫 Let's talk about experience design, (computer science) education, and/or Animal Crossing: **hello [at] geraldiner [dot] com**</p>    
     <div> 
     <p>⚡ Fun fact:</p>
