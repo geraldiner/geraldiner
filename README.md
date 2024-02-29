@@ -10,9 +10,9 @@
 <br />
 <div>
     <p>👩🏽‍💻 Currently a Fullstack Engineer at <a href="https://nomnomnow.com">NomNomNow</a></p>
-    <p>📁 Always trying to build something. Check out the latest below ↓</p>
-    <p>🌲 When in doubt, dance it out</p>
-    <p>📫 Let's talk about experience design, (computer science) education, and/or Animal Crossing: **hello [at] geraldiner [dot] com**</p>    
+    <p>📁 Learning in public - check out the latest below ↓</p>
+    <p>💃🏽 When in doubt, sing it out</p>
+    <p>📫 Open to collaborations - get in touch: <strong>hello</strong> [at] <strong>geraldiner</strong> [dot] <strong>com</strong></p>    
     <div> 
     <p>⚡ Fun fact:</p>
     <blockquote>"Not just <em>'happy'</em> - it's <strong>life-of-the-party</strong> 'happy'."
@@ -47,9 +47,11 @@
 <span><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/graphql%20-%23E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/netlify%20-%2326C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/vercel%20-%23000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/></span>
 
 <h2 align="center">About Me</h2>
 <div align="center"><img alt="Rise of the Guardians scene of Santa explaining his center: Wonder" src="https://49.media.tumblr.com/9f02ae54f85ecf3335fc4814e4c3bcc2/tumblr_muxwxlM4Y91qg7qx4o6_250.gif" /></div>
@@ -60,30 +62,31 @@ Despite being an introvert, I love people and hearing their stories. In a way, I
 
 My passion for education has brought me to various experiences revolving around outreach, mentoring, and leadership. Coming from an underprivileged background, I take any opportunity to bring as many people as I can up with me. I believe there is room for everyone at the top. 🚵🏾‍♂️🌠
 
-My knowledge and experience in design and development are just the tools I use to do what I do best: bringing joy to people’s lives. ✨💖
+✨💖
 
 <h2 align="center">Interests</h2>
 
 🏫 Education & Learning
 
-- Access to education to level the playing field
-- Teach For America Kool-Aid ("One day all children")
+- Access to education, free courses/resources
+- Teach For America experiences (cohort: TFA-HI 2015, also had TFA teachers in high school)
 
 💻 Digital Experiences
 
 - UX Design in digital spaces, especially in places that bring people together
 - Building a community vs audience
-- Content creation process
-- Twitch
+- Twitch (and parasocial relationships)
 
 ✨ People & Wonder/Magic/Happiness
 
 - What makes a moment magical?
 - How can you spark curiosity/wonder in others?
 
-🌲 Animal Crossing
+🌲 Video Games
 
-- ...and other video games as a form of experience design
+- As a form of experience design
+- All-time favorites: Stardew Valley, Animal Crossing
+- Current favorite(s): Palworld
 
 ## GitHub Stats
 
