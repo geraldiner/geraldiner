@@ -1,6 +1,10 @@
+<h1 style="text-align:center;">Geraldine Ragsac</h1>
+<h2 style="text-align:center;">Software Engineer</h2>
+
+<hr />
 Oh, hi! I'm Geraldine! ✨
 
-I’m a fullstack software engineer with a focus on frontend development, building scalable, accessible, and performant web experiences. I specialize in React, JavaScript/TypeScript, and Tailwind CSS, with backend experience in Node.js, Express, and Python.
+I’m a fullstack software engineer with a focus on frontend development, building scalable, accessible, and performant web experiences. I specialize in **React** and **JavaScript/TypeScript**, with backend experience in Node.js, Express, and Python.
 
 I enjoy turning complex problems into intuitive user experiences and collaborating with design, product, and marketing teams to deliver solutions that drive real business impact. My work includes modernizing codebases, improving site performance, and implementing SEO strategies.
 
@@ -10,4 +14,4 @@ In the past, I’ve been a science teacher at the high school I graduated from (
 
 In my free time, I enjoy video games, crochet, and all things that spark joy.
 
-Check out geraldiner.com for more about me! 💖
+Check out <a href="https://geraldiner.com" target="_blank" rel="noopener noreferrer">geraldiner.com</a> for more about me! 💖
