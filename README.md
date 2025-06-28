@@ -1,19 +1,5 @@
-<style>
-.heading {
-  text-align: center;
-}
-
-.heading-xl {
-  font-size: 24px;
-}
-
-.heading-lg {
-  font-size: 16px;
-}
-</style>
-
-<p class="heading heading-xl">Geraldine Ragsac</p>
-<p class="heading heading-lg">Software Engineer</p>
+<p style="font-size: 24px; text-align: center;">Geraldine Ragsac</p>
+<p style="font-size: 16px; text-align: center;">Software Engineer</p>
 
 <hr />
 <p>Oh, hi! I'm Geraldine! ✨</p>
