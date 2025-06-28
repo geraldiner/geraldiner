@@ -1,4 +1,4 @@
-Oh, hi! I'm Geraldine!
+<h1>Oh, hi! I'm Geraldine!</h1>
 
 I’m a fullstack software engineer with a focus on frontend development, building scalable, accessible, and performant web experiences. I specialize in **React** and **JavaScript/TypeScript**, with backend experience in **Node.js**, **Express**, and **Python**.
 
