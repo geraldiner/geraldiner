@@ -1,3 +1,5 @@
+Oh, hi! I'm Geraldine!
+
 I’m a fullstack software engineer with a focus on frontend development, building scalable, accessible, and performant web experiences. I specialize in **React** and **JavaScript/TypeScript**, with backend experience in **Node.js**, **Express**, and **Python**.
 
 I enjoy turning complex problems into intuitive user experiences and collaborating with design, product, and marketing teams to deliver solutions that drive real business impact. My work includes **modernizing codebases**, **improving site performance**, and **implementing SEO strategies**.
