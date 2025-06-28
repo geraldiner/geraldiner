@@ -1,5 +1,5 @@
-<h1 style="text-align:center;">Geraldine Ragsac</h1>
-<h2 style="text-align:center;">Software Engineer</h2>
+<span style="font-size:24pt; text-align:center;">Geraldine Ragsac</span>
+<span style="font-size: 16pt; text-align:center;">Software Engineer</span>
 
 <hr />
 Oh, hi! I'm Geraldine! ✨
