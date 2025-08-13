@@ -6,4 +6,5 @@ In the past, I’ve been a science teacher at the high school I graduated from (
 
 In my free time, I enjoy video games, crochet, and all things that spark joy. 💖
 
-Check out geraldiner.com for more about me!
+Check out [geraldiner.com](https://geraldiner.com) for more about me!
+
