@@ -8,3 +8,4 @@ In my free time, I enjoy video games, crochet, and all things that spark joy. �
 
 Check out [geraldiner.com](https://geraldiner.com) for more about me!
 
+↓ Or check out some of my work below! ↓
