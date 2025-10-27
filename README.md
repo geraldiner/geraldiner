@@ -23,8 +23,10 @@ A curated guide to Raleigh’s top Reuben sandwiches. Built with Astro and Astro
 ## 🤙 Let's connect
 
 - Website: [geraldiner.com](https://geraldiner.com)
+- Resume: [Geraldine R](https://geraldiner.com/GeraldineRagsac_Resume.pdf)
 - LinkedIn: [in/geraldiner](https://linkedin.com/in/geraldiner)
 - Sometimes I write: [@geraldiner](https://geraldiner.hashnode.dev)
 - For crochet work: [@geraldinedesu](https://instagram.com/geraldinedesu)
+
 
 _Last updated: Oct 26, 2025_
