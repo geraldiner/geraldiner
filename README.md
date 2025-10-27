@@ -1,11 +1,30 @@
-Oh, hi! I'm Geraldine! ✨
+# Oh, hi! I'm Geraldine ✨
 
-I’m a full-stack software engineer with a focus on frontend development, building scalable, accessible, and performant web experiences. I specialize in React and JavaScript/TypeScript, with backend experience in Node.js, Express, and Python.
+I'm a software engineer who enjoys building tools that make learning and everyday life a little easier.
 
-In the past, I’ve been a science teacher at the high school I graduated from (working with my previous teachers!), a graphic designer on a video game based on Filipino history and culture, and a web developer for a research group at the only National Cancer Institute-designated center in Hawai'i and the Pacific.
+With a background in UX design and teaching, empathy, clarity, and accessibility shape everything I build. My favorite projects are mission-driven, combining usability with thoughtful design.
 
-In my free time, I enjoy video games, crochet, and all things that spark joy. 💖
+In free time, I enjoy playing video games, crocheting, and all things that spark joy. 💖
 
-Check out [geraldiner.com](https://geraldiner.com) for more about me!
+## Currently...
 
-↓ Or check out some of my work below! ↓
+- Working as a Software Engineer at Nom Nom
+- Learning how to use Figma to create design systems and UIs
+  - a.k.a. working on my lifelong dream to become a unicorn. 🦄
+  - a.a.k.a. applying my UX degree more seriously.
+
+## 🚀 Recent Projects
+
+### Reuben Sandwiches
+[Live Site](https://geraldiner.github.io/reuben-sandwiches/) | [GitHub Repo](https://github.com/geraldiner/reuben-sandwiches)
+
+A curated guide to Raleigh’s top Reuben sandwiches. Built with Astro and Astro Collections and TailwindCSS and deployed with GitHub Actions to GitHub Pages.
+
+## 🤙 Let's connect
+
+- Website: [geraldiner.com](https://geraldiner.com)
+- LinkedIn: [in/geraldiner](https://linkedin.com/in/geraldiner)
+- Sometimes I write: [@geraldiner](https://geraldiner.hashnode.dev)
+- For crochet work: [@geraldinedesu](https://instagram.com/geraldinedesu)
+
+_Last updated: Oct 26, 2025_
