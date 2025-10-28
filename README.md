@@ -6,7 +6,7 @@ With a background in UX design and teaching, empathy, clarity, and accessibility
 
 In free time, I enjoy playing video games, crocheting, and all things that spark joy. 💖
 
-## Currently...
+## 🏃 Currently...
 
 - Working as a Software Engineer at Nom Nom
 - Learning how to use Figma to create design systems and UIs
@@ -30,3 +30,4 @@ A curated guide to Raleigh’s top Reuben sandwiches. Built with Astro and Astro
 
 
 _Last updated: Oct 26, 2025_
+
