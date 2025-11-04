@@ -20,6 +20,18 @@ In free time, I enjoy playing video games, crocheting, and all things that spark
 
 A curated guide to Raleigh’s top Reuben sandwiches. Built with Astro and Astro Collections and TailwindCSS and deployed with GitHub Actions to GitHub Pages.
 
+## 🏗 Works In Progress
+
+### Animal Crossing API
+[GitHub Repo](https://github.com/geraldiner/ac-api)
+
+A lightweight API for developers who want to build with Animal Crossing game data.
+
+### Nook Music
+[GitHub Repo](https://github.com/geraldiner/nook-music)
+
+A web-based music app to listen to your favorite tunes from the Animal Crossing video game series. 
+
 ## 🤙 Let's connect
 
 - Website: [geraldiner.com](https://geraldiner.com)
@@ -30,5 +42,6 @@ A curated guide to Raleigh’s top Reuben sandwiches. Built with Astro and Astro
 
 
 _Last updated: Oct 26, 2025_
+
 
 
