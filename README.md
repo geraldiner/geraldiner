@@ -1,6 +1,6 @@
 # Oh, hi! I'm Geraldine ✨
 
-I'm a software engineer who enjoys building tools that make learning and everyday life a little easier.
+I'm a software engineer who likes building tools that make learning and everyday life a little easier.
 
 With a background in UX design and teaching, empathy, clarity, and accessibility shape everything I build. My favorite projects are mission-driven, combining usability with thoughtful design.
 
@@ -42,6 +42,7 @@ A web-based music app to listen to your favorite tunes from the Animal Crossing 
 
 
 _Last updated: Oct 26, 2025_
+
 
 
 
