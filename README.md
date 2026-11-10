@@ -4,9 +4,9 @@ I build software for people, fueled by curiosity and a love of creating. :)
 
 With a background in user-centered design, education, and creative work, I’m curious about how people interact with technology and how to make those experiences better.
 
-Outside of work, I enjoy experimenting with personal projects and sharing what I learn on my tech blog.
+Outside of work, I like experimenting with personal projects and sharing what I learn on my tech blog.
 
-When I'm not coding, I also enjoy video games, crochet, and all things that spark joy. 💖
+Outside of coding, I also enjoy video games, crochet, and all things that spark joy. 💖
 
 ## 🏃 Currently
 
