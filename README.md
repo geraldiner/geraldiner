@@ -1,8 +1,8 @@
 # Oh, hi! I'm Geraldine ✨
 
-I'm a software engineer who likes building tools that make learning and everyday life a little easier.
+I build software for people, fueled by curiosity and a love of creating. :)
 
-With a background in UX design and teaching, empathy, clarity, and accessibility shape everything I build. I enjoy working across disciplines to turn complex problems into thoughtful, user-centered experiences, and I like exploring ideas by making things, while sharing what I learn along the way.
+My background spans user-centered design, education, creative production, and scientific research, and the common thread is: understanding what people need and turning that understanding into something useful. I care about solving the right problem and building something people can and will actually use.
 
 In my free time, I enjoy playing video games, crocheting, and all things that spark joy. 💖
 
@@ -11,7 +11,6 @@ In my free time, I enjoy playing video games, crocheting, and all things that sp
 - Working as a Software Engineer at Nom Nom
 - Exploring frontend frameworks
 - Learning Figma to create design systems and UIs (from a long-time Adobe user)
-  - a.k.a. working on my lifelong dream to become a unicorn. 🦄
 
 ## 🚀 Recent Projects
 
@@ -41,7 +40,7 @@ A web-based music app to listen to your favorite tunes from the Animal Crossing 
 - For crochet work: [@geraldinedesu](https://instagram.com/geraldinedesu)
 
 
-_Last updated: Aug 27, 2026_
+_Last updated: Nov 10, 2026_
 
 
 
