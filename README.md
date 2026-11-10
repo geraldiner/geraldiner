@@ -2,9 +2,11 @@
 
 I build software for people, fueled by curiosity and a love of creating. :)
 
-My background spans user-centered design, education, creative production, and scientific research, and the common thread is: understanding what people need and turning that understanding into something useful. I care about solving the right problem and building something people can and will actually use.
+With a background in user-centered design, education, and creative work, I’m curious about how people interact with technology and how to make those experiences better.
 
-In my free time, I enjoy playing video games, crocheting, and all things that spark joy. 💖
+Outside of work, I enjoy experimenting with personal projects and sharing what I learn on my tech blog.
+
+When I'm not coding, I also enjoy video games, crochet, and all things that spark joy. 💖
 
 ## 🏃 Currently
 
